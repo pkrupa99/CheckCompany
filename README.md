@@ -7,6 +7,7 @@
 "https://wyszukiwarkaregon.stat.gov.pl/appBIR/index.aspx". The second step is to verify the company's presence in the VAT register at "https://www.podatki.gov.pl/wykaz-podatnikow-vat-wyszukiwarka" . The solution automates data verification and reduces possible errors.</p> 
 
 <p>To use the solution, download the WebScrapingCompany.xlsm file, check References.  Solution prepared using Selenium. Selenium Type Library should be added to the reference.</p>
+
 ## How it works?
 
 <p>Complete the necessary data for verification, namely TIN.</p> 
